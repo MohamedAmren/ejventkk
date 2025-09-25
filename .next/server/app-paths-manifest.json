@@ -1,0 +1,8 @@
+{
+  "/services/page": "app/services/page.js",
+  "/services/game-machine-rental/page": "app/services/game-machine-rental/page.js",
+  "/page": "app/page.js",
+  "/services/event-management/page": "app/services/event-management/page.js",
+  "/services/event-supply/page": "app/services/event-supply/page.js",
+  "/services/mascot-rental/page": "app/services/mascot-rental/page.js"
+}
