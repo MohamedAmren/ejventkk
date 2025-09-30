@@ -89,10 +89,10 @@ export default function Footer() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
                 <a
-                  href="mailto:business.ejeventmanagememt@gmail.com"
+                  href="mailto:business.ejeventmanagement@gmail.com"
                   className="text-gray-400 hover:text-white transition-colors duration-300 break-all"
                 >
-                  business.ejeventmanagememt@gmail.com
+                  business.ejeventmanagement@gmail.com
                 </a>
               </div>
 

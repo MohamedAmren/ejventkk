@@ -93,7 +93,7 @@ src/
 ## Contact Information
 
 - **Company**: EJ Event Management & Marketing
-- **Email**: business.ejeventmanagememt@gmail.com
+- **Email**: business.ejeventmanagement@gmail.com
 - **Phone**: 012-6258405
 - **Location**: Kota Kinabalu, Sabah, Malaysia
 
